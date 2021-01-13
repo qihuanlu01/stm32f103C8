@@ -2,4 +2,9 @@
 *.d
 *.o
 *.hex
-
+*.axf
+*.dep
+*.htm
+*.map
+*.lnp
+*.sct
